@@ -205,10 +205,12 @@ th {
     font-size: 20px;
     border-radius: 8px;
     border-style: none;
-    background-color: rgba(206, 22, 16, 0.911);
+    background-color: #2700ff;
     cursor: pointer;
     color: #fff;
     margin: auto;
+    margin-bottom: 15px;
+
 }
 
 #plot1 {
