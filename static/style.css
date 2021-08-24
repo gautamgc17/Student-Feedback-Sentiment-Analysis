@@ -89,10 +89,11 @@ input[type="file"] {
     font-size: 20px;
     border-radius: 8px;
     border-style: none;
-    background-color: rgba(206, 22, 16, 0.911);
+    background-color: #2700ff;
     cursor: pointer;
     color: #fff;
     margin: auto;
+    margin-bottom: 10px;
 }
 
 #upload-button {
@@ -126,6 +127,10 @@ input[type="file"] {
     background-color: rgba(206, 22, 16, 0.911);
     cursor: pointer;
     color: #fff;
+}
+#drop,
+#text_down{
+    text-align:center;
 }
 
 .textarea {
@@ -174,6 +179,7 @@ th {
 #plot div {
     width: 500px;
     height: 500x;
+    margin:5px;
 }
 
 #plot div img {
