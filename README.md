@@ -1,5 +1,5 @@
 
-## POJECT OUTLINE
+## PROJECT OUTLINE
 The goal of this project is to develop an automated robust feedback analysis system wherein the user has to first upload form response data in csv format, then we process and extract the data with the help of NLTK and then applying sentiment analysis using Naive Bayes algorithm to extract the opinions and subjectivity from the student feedback by classifying them into 3 different categories: 
 - positive 
 - neutral 
