@@ -12,6 +12,25 @@ Our feedback analysis model will thus enable the concerned authorities to unders
 ## WEBSITE LINK
 _https://get-analysis.herokuapp.com/_
 
-## Demo of working model: 
+## DEMO OF WORKING MODEL 
 _[Project Demo](https://drive.google.com/file/d/1hAu_Rmdu8qq6yjq8DSgD-P08EA4nTuVu/view?usp=sharing)_ 
+
+<br>
+
+## PROJECT WORKFLOW
+![outline](images/flow.PNG)
+
+<br>
+
+## RESULTS
+![results](images/results.PNG)
+
+<br>
+
+## WEBSITE LAYOUT
+![results](images/1.png)
+
+![results](images/2.png)
+
+![results](images/3.png)
 
